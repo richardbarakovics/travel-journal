@@ -1,6 +1,5 @@
 export default [
     {
-        id: 1,
         location: "Cyprus",
         title: "Larnaca",
         startDate: 2015,
